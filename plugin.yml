@@ -1,0 +1,39 @@
+name: EndQuests
+main: com.mc.CDK2020.endquests.EndQuests
+description: DragonKing Plugin!
+version: 0.1
+
+
+commands:
+  dragontime:
+    default: op
+    description: displays the time the next dragon will spawn
+  nextdragon:
+    default: op
+    description: displays the time the next dragon will spawn
+  spawndragonhelm:
+    description: spawns the dragon helmet
+  spawndragonchest:
+    description: spawns the dragon chestplate
+  spawndragonpants:
+    description: spawns the dragon pants
+  spawndragonboots:
+    description: spawns the dragon boots
+  spawndragonsword:
+    description: spawns the dragon sword
+  spawndragonnow:
+    description: spawns the dragon
+  spawndragongear:
+    description: spawns all dragon armor
+  spawndragonbow:
+    description: spawns the dragon bow
+  Dragonrewards:
+    description: see the DragonKing drops!
+  sl:
+    description: show chat shortcuts
+  sm:
+    description: show social media links
+  socialmedia:
+    description: show social media links
+  apply:
+    description: apply for staff
